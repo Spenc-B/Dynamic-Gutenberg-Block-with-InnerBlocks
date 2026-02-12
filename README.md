@@ -1,4 +1,4 @@
-# Dynamic-Gutenberg-Block-with-InnerBlocks
+# Dynamic Gutenberg Block with InnerBlocks
 Dynamic Gutenberg Block with InnerBlocks (Role-Based Visibility)
 
 ---
@@ -88,3 +88,8 @@ This allows:
 * Clean Gutenberg UI
 * No shortcode wrapping issues
 * Server-side visibility control
+
+---
+
+#### Partner check shortcode 
+Allow a user to set access based on role and tier as well as display a shortcode template as content.
